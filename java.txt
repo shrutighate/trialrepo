@@ -1,2 +1,4 @@
 I am larning java
-And Happy to learn python also
+And Happy to learn python also.
+
+I learnt about abstraction today.
